@@ -1,24 +1,10 @@
-<pre>Here is the original work from the aol.developer work group. Sadly both aol and 
-the style guide no longer exist. In effort to capture this work, I found the 
-last version from web.archive (see below) and posted it here. If anyone has an 
-issue with this feel free to contact me.
-
-This work played an important part in defining Widget behavior later used in the
-ARIA spec. I still find it a helpful reference many years later.
-
-Original source for this page:
-https://web.archive.org/web/20130127004544/http://dev.aol.com/dhtml_style_guide
-</pre>
-
-* * *
-
 # DHTML Style Guide Working Group
 
 The DHTML Style Guide Working Group (DSGWG) has come together to create a recommendation for keyboard shortcuts to be used in website widgets. We realize that many keystrokes are already in use by various operating systems, user interfaces, and assistive technology. Therefore our task is to recommend the best, most intuitive, most international friendly shortcut keys possible without regard to their current use. It is hoped that developers, AT vendors, and Browser manufactures will use these as guidelines, but understand it may not be practical or possible given their individual constraints.
 
 * * *
 
-# Table of Contents
+## Table of Contents
 
 *   [Widgets](#widgets)
     1.  [Accordion](#accordion) see [Tab Panel](#tabpanel)
