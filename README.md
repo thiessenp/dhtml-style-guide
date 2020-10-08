@@ -1,12 +1,8 @@
 # dhtml-style-guide
 
-Here is the original work from the aol.developer work group. Sadly both aol and 
-the style guide no longer exist. In effort to capture this work, I found the 
-last version from web.archive (see below) and posted it here. If anyone has an 
-issue with this feel free to contact me.
+This project is about trying to make sure the work from the aol.developer is not lost. Sadly both AOL and the style guide no longer exist. The content here is not my own (aol.developer's work) and copied from the web.archive with archival date 2013-01-27. If anyone has an issue with this feel free to contact me and I'll take this down. 
 
-This work played an important part in defining Widget behavior later used in the
-ARIA spec. I still find it a helpful reference many years later.
+Over the years I found this a helpful reference and continue to this day. Much of the work here helped define behavior in the ARIA spec, especially the best practices section. Not much has changed since it was written.
 
 Original source for this page:
 https://web.archive.org/web/20130127004544/http://dev.aol.com/dhtml_style_guide
